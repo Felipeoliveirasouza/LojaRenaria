@@ -321,7 +321,7 @@ produtos.metodos = {
         VALOR_CARRINHO = 0;
 
         $("#lblSubtotal").text("R$ 0,00");
-        // $("lblValorEntrega").text("Uber Flash");
+        $("#lblValorEntrega").text("Uber Flash");
         $("#lblValorTotal").text("R$ 0,00");
 
         $.each(MEU_CARRINHO, (i, e) => {
