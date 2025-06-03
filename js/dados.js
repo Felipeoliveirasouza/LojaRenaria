@@ -73,54 +73,54 @@ var MENU = {
         
     ],
     "lingeries": [
-        {
+       {
             "id": "lingerie-1",
-            "img": "./img/cardapio/lingeries/lingeries (1).png",
-            "name": "lingerie (1)",
-            "dsc": "Conjunto em renda com acabamento em cetim vermelho.Conjunto em renda com acabamento em cetim vermelho.Conjunto em renda com acabamento em cetim vermelho.Conjunto em renda com acabamento em cetim vermelho.Conjunto em renda com acabamento em cetim vermelho.Conjunto em renda com acabamento em cetim vermelho.Conjunto em renda com acabamento em cetim vermelho.Conjunto em renda com acabamento em cetim vermelho.Conjunto em renda com acabamento em cetim vermelho.",
-            "price": 79.50
+            "img": "./img/cardapio/lingeries/camisola-dondoca-personalizada-roxa.jpeg",
+            "name": "Camisola Dondoca ",
+            "dsc": "Delicada, charmosa e feita para quem ama se sentir linda até na hora de dormir, a Camisola Dondoca é confeccionada em tecido leve e macio que valoriza o corpo com suavidade. Com detalhes em renda e acabamento impecável, ela é perfeita para noites especiais ou simplesmente para se mimar no dia a dia.",
+            "price": 85.00
         },
         {
             "id": "lingerie-2",
-            "img": "./img/cardapio/lingeries/lingeries (2).png",
-            "name": "lingerie (2)",
-            "dsc": "Shake Shack ShackBurger® - 8 Pack",
-            "price": 79.50
+            "img": "./img/cardapio/lingeries/camisola-dondoca-personalizada-vermelha.jpeg",
+            "name": "Camisola dondoca personalizada",
+            "dsc": "Deixe a sua camisola ainda mais exclusiva com a opção de personalização: adicione seu nome, iniciais ou uma palavra que tenha um significado especial para você. Ideal também para presentear com carinho e estilo.",
+            "price": 120.00
         },
         {
             "id": "lingerie-3",
-            "img": "./img/cardapio/lingeries/lingeries (3).png",
-            "name": "lingerie (3)",
-            "dsc": "descrição",
+            "img": "./img/cardapio/lingeries/Lingerie-cosert.jpg",
+            "name": "Lingerie cosert",
+            "dsc": "A lingerie Consert é feita com tecido delicado e toque suave, ideal para valorizar as curvas com elegância e estilo. O design combina charme e sofisticação, perfeita para momentos especiais ou para se sentir linda todos os dias. Disponível nos tamanhos M e G. ",
             "price": 79.50
         },
         {
             "id": "lingerie-4",
-            "img": "./img/cardapio/lingeries/lingeries (4).png",
-            "name": "lingerie (4)",
-            "dsc": "Le Big Matt Burger Kit for 6",
-            "price": 79.50
+            "img": "./img/cardapio/lingeries/Conjunto love.jpg",
+            "name": "Conjunto love",
+            "dsc": "tamanho único veste do 38 ao 46",
+            "price": 60.00
         },
         {
             "id": "lingerie-5",
-            "img": "./img/cardapio/lingeries/lingeries (5).png",
-            "name": "lingerie (5)",
-            "dsc": "Shake Shack Shackburger® - 16 Pack",
-            "price": 79.50
+            "img": "./img/cardapio/lingeries/Conjunto paixão.jpg",
+            "name": "Conjunto paixão",
+            "dsc": "tamanho único veste do 38 ao 46",
+            "price": 85.00
         },
         {
             "id": "lingerie-6",
-            "img": "./img/cardapio/lingeries/lingeries (6).png",
-            "name": "lingerie (6)",
-            "dsc": "USDA Prime Burgers - Pack of 18 (8oz each)",
-            "price": 79.50
+            "img": "./img/cardapio/lingeries/Camisola luxúria.jpg",
+            "name": "Camisola luxúria",
+            "dsc": "disponível M",
+            "price": 95.00
         },
         {
             "id": "lingerie-7",
-            "img": "./img/cardapio/lingeries/lingeries (7).png",
-            "name": "lingerie (7)",
-            "dsc": "Double Stack Burger Kit for 4",
-            "price": 79.50
+            "img": "./img/cardapio/lingeries/Conjunto Diva.jpg",
+            "name": "Conjunto Diva",
+            "dsc": "tamanho GG",
+            "price": 58.00
         },
         {
             "id": "lingerie-8",

@@ -276,7 +276,7 @@ a.navbar-brand {
 }
 
 .card-item .img-produto img{
-    width: 100%;
+    width: 170px;
     border-radius: 11px;
 }
 
@@ -888,7 +888,7 @@ select.form-control {
     }
 
 .modal-box img{
-    width: 350px;
+    width: 300px;
     padding-bottom: 30px;
 }
 

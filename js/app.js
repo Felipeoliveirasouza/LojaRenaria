@@ -582,11 +582,8 @@ produtos.metodos = {
     conteudo.innerHTML = `<img src="${img}"><h4>${titulo}</h4><p>${descricao}</p>`;
     modal.style.display = "flex";
     },
-    
 
     
-
-
     fecharModal: function () {
         document.getElementById('modalDescricao').style.display = "none";
     },
@@ -643,6 +640,7 @@ produtos.templates = {
                 <span class="btn-mais" onclick="produtos.metodos.aumentarQuantidade('\${id}')"><i class="fas fa-plus"></i></span>
                 <span class="btn btn-add" onclick="produtos.metodos.adicionarAoCarrinho('\${id}')"><i class="fas fa-shopping-bag"></i></span>
                <button class="btn btn-info-icon" onclick="produtos.metodos.abrirModal('\${name}', '\${img}', '\${dsc}')" title="Ver mais"><i class="fas fa-info-circle"></i></button>
+            </div>
             </div>
            
 
