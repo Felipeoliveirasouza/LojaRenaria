@@ -124,24 +124,52 @@ var MENU = {
         },
         {
             "id": "lingerie-8",
-            "img": "./img/cardapio/lingeries/lingeries (8).png",
-            "name": "lingerie (8)",
-            "dsc": "Goldbelly Burger Bash Pack",
-            "price": 79.50
+            "img": "./img/cardapio/lingeries/Conjunto Cristal.jpg",
+            "name": "Conjunto Cristal",
+            "dsc": "Disponivel M",
+            "price": 49.99
         },
         {
             "id": "lingerie-9",
-            "img": "./img/cardapio/lingeries/lingeries (9).png",
-            "name": "lingerie (9)",
-            "dsc": "Burger Au Poivre Kit - 4 Pack",
-            "price": 79.50
+            "img": "./img/cardapio/lingeries/Calcinha Anita.jpg",
+            "name": "Calcinha Anita",
+            "dsc": "disponivel do P ao GG",
+            "price": 13.00
         },
         {
-            "id": "lingerie-10",
-            "img": "./img/cardapio/lingeries/lingeries (10).png",
-            "name": "lingerie (10)",
-            "dsc": "Goldbelly Burger Blend - 4 lbs.",
-            "price": 79.50
+            "id": "lingerie-11",
+            "img": "./img/cardapio/lingeries/Conjunto personalizado.jpg",
+            "name": "Conjunto Personalizável",
+            "dsc": "",
+            "price": 95.00
+        },
+        {
+            "id": "lingerie-12",
+            "img": "./img/cardapio/lingeries/Conjunto personalizado.jpg",
+            "name": "Conjunto Personalizável",
+            "dsc": "Com frase a sua escolha",
+            "price": 130.00
+        },
+        {
+            "id": "lingerie-13",
+            "img": "./img/cardapio/lingeries/Conjunto sedução.jpg",
+            "name": "Conjunto sedução",
+            "dsc": "",
+            "price": 95.00
+        },
+        {
+            "id": "lingerie-14",
+            "img": "./img/cardapio/lingeries/Conjunto sedução1.jpg",
+            "name": "Conjunto sedução",
+            "dsc": "",
+            "price": 95.00
+        },
+        {
+            "id": "lingerie-15",
+            "img": "./img/cardapio/lingeries/Robe + body.jpg",
+            "name": "Robe + body",
+            "dsc": "",
+            "price": 95.00
         }
       
     ],
