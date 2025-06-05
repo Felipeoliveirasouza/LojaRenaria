@@ -83,27 +83,20 @@ var MENU = {
         },
         {
             "id": "lingerie-12",
-            "img": "./img/cardapio/lingeries/Conjunto personalizado.jpg",
-            "name": "Conjunto Personalizável",
-            "dsc": "Com frase a sua escolha",
-            "price": 130.00
-        },
-        {
-            "id": "lingerie-13",
             "img": "./img/cardapio/lingeries/Conjunto sedução.jpg",
             "name": "Conjunto sedução",
             "dsc": "",
             "price": 95.00
         },
         {
-            "id": "lingerie-14",
+            "id": "lingerie-13",
             "img": "./img/cardapio/lingeries/Conjunto sedução1.jpg",
             "name": "Conjunto sedução",
             "dsc": "",
             "price": 95.00
         },
         {
-            "id": "lingerie-15",
+            "id": "lingerie-14",
             "img": "./img/cardapio/lingeries/Robe + body.jpg",
             "name": "Robe + body",
             "dsc": "",
