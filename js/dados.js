@@ -21,16 +21,16 @@ var MENU = {
         {
             "id": "lingerie-2",
             "img": "./img/cardapio/lingeries/camisola-dondoca-personalizada-vermelha.jpeg",
-            "name": "Camisola dondoca personalizada",
-            "dsc": "Deixe a sua camisola ainda mais exclusiva com a opção de personalização: adicione seu nome, iniciais ou uma palavra que tenha um significado especial para você. Ideal também para presentear com carinho e estilo.",
-            "price": 120.00
+            "name": "Camisola Dondoca vermelha",
+            "dsc": "Delicada, charmosa e feita para quem ama se sentir linda até na hora de dormir, a Camisola Dondoca é confeccionada em tecido leve e macio que valoriza o corpo com suavidade. Com detalhes em renda e acabamento impecável, ela é perfeita para noites especiais ou simplesmente para se mimar no dia a dia.",
+            "price": 85.00
         },
         {
             "id": "lingerie-3",
             "img": "./img/cardapio/lingeries/Lingerie-cosert.jpg",
             "name": "Lingerie cosert",
             "dsc": "A lingerie Consert é feita com tecido delicado e toque suave, ideal para valorizar as curvas com elegância e estilo. O design combina charme e sofisticação, perfeita para momentos especiais ou para se sentir linda todos os dias. Disponível nos tamanhos M e G. ",
-            "price": 79.50
+            "price": 45.00
         },
         {
             "id": "lingerie-4",
